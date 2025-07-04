@@ -8,7 +8,7 @@ While [Chern-Simons theory](/BOOK/glossary/chern_simons_theory.md) stands out as
 
 BF theory is characterized by its [action](/BOOK/glossary/action.md), which involves a 2-form field `B` and a connection 1-form `A` (similar to the [gauge field](/BOOK/glossary/gauge_field.md) in [Chern-Simons theory](/BOOK/glossary/chern_simons_theory.md)). The [action](/BOOK/glossary/action.md) is given by:
 
-S_BF = ∫_M Tr(B ∧ F)
+$$S_BF = ∫_M Tr(B ∧ F)$$
 
 where:
 *   `M` is the spacetime [manifold](/BOOK/glossary/manifold.md) of arbitrary dimension.
