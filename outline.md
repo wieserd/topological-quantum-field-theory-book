@@ -81,4 +81,5 @@ This book will cover the foundational concepts of Quantum Topological Field Theo
 *   Mathematical Preliminaries (e.g., differential forms, basic group theory)
 *   [Glossary](/BOOK/glossary.md)
 *   Further Reading
+*   [References](/BOOK/appendices/references.md)
 *   *The appendices provide supplementary material, including mathematical preliminaries, a glossary of key terms, and suggestions for further reading to aid the reader's understanding and continued study.*
